@@ -1,0 +1,28 @@
+#map{
+	margin-left: auto;
+	margin-right: auto;
+	height: 600px; width:1200px; 
+	margin-bottom : 20px;
+}
+
+.ui-widget-content { 
+	width: 130px; 
+	height: 100px; 
+	padding: 0.5em; 
+	float: left; 
+	margin: 10px 10px 10px 0; 
+	background-color: #ccffcc;
+	border-color:white;
+}
+
+#creator{
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+#btn{
+	margin-bottom : 10px;
+}
+
+
+
